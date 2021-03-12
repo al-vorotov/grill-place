@@ -1,10 +1,12 @@
-# grillBar
+# Grill-master task
 
 ### Super Easy Install
 ```
 yarn 
 yarn start
 ```
+you checked it on dev mode in lockalhost:3000
+
 ## Prelude:
 Grill master invited many friends to the party and they all are hungry.
 Help grill master to cook as many dishes as possible in one go.
